@@ -1,4 +1,4 @@
-<h1> Oi, eu sou Filipe Souza!</h1><p>
+<h1> Olá, eu sou Filipe Souza!</h1><p>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=souzafp&show_icons=true&count_private=true) -->
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=souzafp) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzafp)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,4 +16,6 @@ Linguagens e Ferramentas
   <hr>
 </div>
 
+obs: Estou com pouco tempo ultimamente mas estou tentando atualizar meu perfil assim que consigo algum tempo livre.
+<br>Obrigado pela visita, espero que volte no futuro :)
 
